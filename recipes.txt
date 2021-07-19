@@ -4,3 +4,6 @@ pasta
 
 kheer
 chicken
+beans
+
+pizza
