@@ -7,3 +7,4 @@ chicken
 beans
 
 pizza
+maggi
